@@ -6,7 +6,7 @@ export default function FirstScreen() {
         <span className="relative inline-block">
           m
           <img
-            src="/chameleon.svg"
+            src="./chameleon.svg"
             alt="Chameleon"
             className="absolute top-10 left-0 hidden lg:block"
           />
