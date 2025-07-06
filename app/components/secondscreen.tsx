@@ -11,7 +11,7 @@ export default function SecondScreen() {
   return (
     <div className="flex flex-col lg:flex-row-reverse items-center justify-start bg-white text-black w-full lg:h-screen rounded-[60px] px-4 lg:px-10 2xl:px-[140px] py-[60px] gap-5">
       <div className="w-full lg:w-1/2 h-full flex justify-center">
-        <img src="/MainImage.svg" alt="MainImage" className="" />
+        <img src="./MainImage.svg" alt="MainImage" className="" />
       </div>
       <div className="w-full lg:w-1/2">
         <div className="flex flex-col items-center justify-center gap-5">
